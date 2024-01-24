@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented features:
 
 
-<img src="https://github.com/davchaudhari/web102_prework/codepath_prework.gif" width=500><br>
+<img src="https://github.com/davchaudhari/web102_prework/codepath_prework.gif" width=200><br>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
